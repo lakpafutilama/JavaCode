@@ -1,0 +1,10 @@
+a) 8 bit b) 16 bit 
+c) null d) not defined
+b) false c) null
+b) 1996 d) 1955
+c) integer d) new
+c) a data container d) anything
+a) Compilation error c) num being 6.7
+a) Tim Ritchey b) James Gosling
+b) public d) all of them
+a) Encapsulation d) All of these
